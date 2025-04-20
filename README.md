@@ -1,7 +1,7 @@
 # Popcorn Picks :popcorn:
 This is a Content-Based Movie Recommendation System built using machine learning techniques on the TMDB 5000 Movie Dataset. The model recommends similar movies based on the content (like genres, keywords, cast, and overview) of a selected movie.
 
-:ballot_box_with_check: ## Features:
+## :ballot_box_with_check: Features:
 + Suggests movies based on content similarity
 
 + Fetches high-quality movie posters using TMDB API
@@ -11,7 +11,7 @@ This is a Content-Based Movie Recommendation System built using machine learning
 + Easily deployable and shareable via Hugging Face
 
 
-:rocket: ## Technologies & Libraries Used:
+## :rocket: Technologies & Libraries Used:
 + ***Python*** for core development
 
 + ***Pandas & NumPy*** for data manipulation and preprocessing
