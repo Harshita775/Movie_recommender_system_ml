@@ -14,6 +14,7 @@ Easily deployable and shareable via Hugging Face
 
 
 ## Technologies & Libraries Used:
+```
 ***Python*** for core development
 
 ***Pandas & NumPy*** for data manipulation and preprocessing
@@ -29,5 +30,6 @@ Easily deployable and shareable via Hugging Face
 ***TMDB API (via requests)*** for fetching real-time movie posters
 
 ***Hugging Face*** Spaces for deployment and hosting
+```
 
 
