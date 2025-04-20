@@ -12,23 +12,23 @@ Easily deployable and shareable via Hugging Face
 
 
 ## Technologies & Libraries Used:
-***Python*** for core development
++ ***Python*** for core development
 
-***Pandas & NumPy*** for data manipulation and preprocessing
++ ***Pandas & NumPy*** for data manipulation and preprocessing
 
-***Scikit-learn*** for feature extraction and model building (TF-IDF, cosine similarity, etc.)
++ ***Scikit-learn*** for feature extraction and model building (TF-IDF, cosine similarity, etc.)
 
-***NLTK*** for text processing and stemming
++ ***NLTK*** for text processing and stemming
 
-***Pickle*** for model serialization and transferring data between platforms like PyCharm and Streamlit
++ ***Pickle*** for model serialization and transferring data between platforms like PyCharm and Streamlit
 
-***Streamlit*** for building the interactive web application
++ ***Streamlit*** for building the interactive web application
 
-***TMDB API (via requests)*** for fetching real-time movie posters
++ ***TMDB API (via requests)*** for fetching real-time movie posters
 
-***Hugging Face*** Spaces for deployment and hosting
++ ***Hugging Face*** Spaces for deployment and hosting
 
-### Kaggle Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
++ #### Kaggle Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Preview:
 
