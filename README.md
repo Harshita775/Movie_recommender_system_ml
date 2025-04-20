@@ -2,7 +2,6 @@
 This is a Content-Based Movie Recommendation System built using machine learning techniques on the TMDB 5000 Movie Dataset. The model recommends similar movies based on the content (like genres, keywords, cast, and overview) of a selected movie.
 
 ## Features:
-```
 Suggests movies based on content similarity
 
 Fetches high-quality movie posters using TMDB API
@@ -10,11 +9,9 @@ Fetches high-quality movie posters using TMDB API
 Fast and responsive web interface using Streamlit
 
 Easily deployable and shareable via Hugging Face
-```
 
 
 ## Technologies & Libraries Used:
-```
 ***Python*** for core development
 
 ***Pandas & NumPy*** for data manipulation and preprocessing
@@ -30,6 +27,6 @@ Easily deployable and shareable via Hugging Face
 ***TMDB API (via requests)*** for fetching real-time movie posters
 
 ***Hugging Face*** Spaces for deployment and hosting
-```
 
-
+Preview:
+https://github.com/user-attachments/assets/6ba6f9c6-0015-4594-a699-62d9eb611bbe
