@@ -1,1 +1,28 @@
-# Movie_recommender_system_ml
+# Popcorn Picks
+This is a Content-Based Movie Recommendation System built using machine learning techniques on the TMDB 5000 Movie Dataset. The model recommends similar movies based on the content (like genres, keywords, cast, and overview) of a selected movie.
+
+🔧 Technologies & Libraries Used:
+Python for core development
+
+Pandas & NumPy for data manipulation and preprocessing
+
+Scikit-learn for feature extraction and model building (TF-IDF, cosine similarity, etc.)
+
+NLTK for text processing and stemming
+
+Pickle for model serialization and transferring data between platforms like PyCharm and Streamlit
+
+Streamlit for building the interactive web application
+
+TMDB API (via requests) for fetching real-time movie posters
+
+Hugging Face Spaces for deployment and hosting
+
+🚀 Features:
+Suggests movies based on content similarity
+
+Fetches high-quality movie posters using TMDB API
+
+Fast and responsive web interface using Streamlit
+
+Easily deployable and shareable via Hugging Face
