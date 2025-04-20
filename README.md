@@ -28,9 +28,9 @@ This is a Content-Based Movie Recommendation System built using machine learning
 
 + ***Hugging Face*** Spaces for deployment and hosting
 
-#### :safety_pin: Kaggle Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-#### :safety_pin: Live link: https://huggingface.co/spaces/Harshi775/movie-recommender-system
+#### :link: Kaggle Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+#### :link: Live link: https://huggingface.co/spaces/Harshi775/movie-recommender-system
 
-## Preview:
+## :clapper: Preview:
 
 https://github.com/user-attachments/assets/6ba6f9c6-0015-4594-a699-62d9eb611bbe
