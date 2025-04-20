@@ -1,4 +1,4 @@
-# Popcorn Picks
+# Popcorn Picks :popcorn:
 This is a Content-Based Movie Recommendation System built using machine learning techniques on the TMDB 5000 Movie Dataset. The model recommends similar movies based on the content (like genres, keywords, cast, and overview) of a selected movie.
 
 ## Features:
