@@ -2,13 +2,13 @@
 This is a Content-Based Movie Recommendation System built using machine learning techniques on the TMDB 5000 Movie Dataset. The model recommends similar movies based on the content (like genres, keywords, cast, and overview) of a selected movie.
 
 ## Features:
-Suggests movies based on content similarity
++ Suggests movies based on content similarity
 
-Fetches high-quality movie posters using TMDB API
++ Fetches high-quality movie posters using TMDB API
 
-Fast and responsive web interface using Streamlit
++ Fast and responsive web interface using Streamlit
 
-Easily deployable and shareable via Hugging Face
++ Easily deployable and shareable via Hugging Face
 
 
 ## Technologies & Libraries Used:
@@ -28,7 +28,7 @@ Easily deployable and shareable via Hugging Face
 
 + ***Hugging Face*** Spaces for deployment and hosting
 
-+ #### Kaggle Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+#### Kaggle Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Preview:
 
