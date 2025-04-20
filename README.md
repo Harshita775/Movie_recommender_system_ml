@@ -15,16 +15,16 @@ Easily deployable and shareable via Hugging Face
 
 <b><i>Pandas & NumPy</i></b> for data manipulation and preprocessing
 
-Scikit-learn for feature extraction and model building (TF-IDF, cosine similarity, etc.)
+<b><i>Scikit-learn</i></b> for feature extraction and model building (TF-IDF, cosine similarity, etc.)
 
-NLTK for text processing and stemming
+<b><i>NLTK</i></b> for text processing and stemming
 
-Pickle for model serialization and transferring data between platforms like PyCharm and Streamlit
+<b><i>Pickle</i></b> for model serialization and transferring data between platforms like PyCharm and Streamlit
 
-Streamlit for building the interactive web application
+<b><i>Streamlit</i></b> for building the interactive web application
 
-TMDB API (via requests) for fetching real-time movie posters
+<b><i>TMDB API (via requests)</i></b> for fetching real-time movie posters
 
-Hugging Face Spaces for deployment and hosting
+<b><i>Hugging Face</i></b> Spaces for deployment and hosting
 
 
