@@ -11,9 +11,9 @@ Fast and responsive web interface using Streamlit
 Easily deployable and shareable via Hugging Face
 
 ## Technologies & Libraries Used:
-<b>Python</b> for core development
+<b><i>Python</i></b> for core development
 
-Pandas & NumPy for data manipulation and preprocessing
+<b><i>Pandas & NumPy</i></b> for data manipulation and preprocessing
 
 Scikit-learn for feature extraction and model building (TF-IDF, cosine similarity, etc.)
 
